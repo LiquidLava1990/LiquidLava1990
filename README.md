@@ -1,6 +1,6 @@
-### Hi, I'm LiquidLava1990
+### Intel Gaudi 2 LLM inference recipes: GLM-5.3, GLM-5.2, MiniMax-M3 and Qwen3.6 with vLLM
 
-I run large language models on an 8-card **Intel Gaudi 2** server and publish the recipes that work, and the ones that didn't.
+Hi, I'm LiquidLava1990. I run large language models on an 8-card **Intel Gaudi 2** server and publish the recipes that work, and the ones that didn't.
 
 Each repo below is built on that model's **champion** config, the best setup I've measured. It includes the real scripts, configs, kernels and patches, plus the measured numbers. Model weights are not included.
 
